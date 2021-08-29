@@ -1,0 +1,9 @@
+.item {
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column-reverse;
+  width: 129px;
+  align-items: center;
+  border: 1px solid rgb(100, 93, 93);
+  border-radius: 50px;
+}

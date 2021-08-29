@@ -1,0 +1,13 @@
+.transactionHistory {
+  background-color: rgb(17, 21, 240);
+  width: 650px;
+  text-align: center;
+}
+
+.transactionHead {
+  background-color: rgb(216, 236, 33);
+}
+
+.elementHistory {
+  background-color: #fff;
+}
